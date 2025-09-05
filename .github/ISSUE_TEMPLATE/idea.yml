@@ -1,0 +1,42 @@
+name: 💡 Idea / Feature request
+description: Suggest a new idea, feature, or improvement
+title: "[Idea]: "
+labels: [idea, enhancement]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Short summary
+      description: A concise description of your idea
+      placeholder: e.g. Add dark mode support
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why should this idea be implemented? What problem does it solve?
+      placeholder: |
+        - I often struggle with …
+        - It would improve usability because …
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How would you like this idea to be implemented?
+      placeholder: |
+        - Add a setting for …
+        - Provide a new option in the menu …
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Did you consider other solutions or workarounds?
+      placeholder: |
+        - Use an external tool …
+        - Manually adjust …
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Any screenshots, sketches, or other context to help explain your idea.

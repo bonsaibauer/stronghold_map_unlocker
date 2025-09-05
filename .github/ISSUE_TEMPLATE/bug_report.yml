@@ -1,0 +1,48 @@
+name: Bug report
+description: Report a bug or unexpected behavior
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Short description
+      description: A brief summary of the issue
+      placeholder: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Describe the steps to reproduce the problem
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should have happened instead?
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What actually happened?
+  - type: input
+    id: version
+    attributes:
+      label: App version / Commit
+      placeholder: e.g. v1.0.0 or a1b2c3d
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      placeholder: e.g. Windows 11 23H2
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log excerpt / Screenshot
+      description: Please attach relevant log output or screenshots.
