@@ -8,6 +8,10 @@
 ![GitHub Stars](https://img.shields.io/github/stars/bonsaibauer/stronghold_map_unlocker?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/bonsaibauer/stronghold_map_unlocker?style=social)
 
+# ⬇️ **Download — Latest EXE (v1.0.0)**
+
+**Direct link:** [stronghold_map_unlocker.exe](https://github.com/bonsaibauer/stronghold_map_unlocker/releases/download/v1.0.0/stronghold_map_unlocker.exe)
+
 ## Supported / Tested Games
 
 > This tool is designed for **Stronghold Crusader – Definitive Edition** and can work with other titles if you adjust the paths. Only SC:DE is **proven** below; the rest are unverified by this project.
