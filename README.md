@@ -12,6 +12,9 @@
 
 **Direct link:** [stronghold_map_unlocker.exe](https://github.com/bonsaibauer/stronghold_map_unlocker/releases/download/v1.0.0/stronghold_map_unlocker.exe)
 
+![Stronghold Map Unlocker Image](readme_image.png)
+<sub>Image generated with the help of [ChatGPT](https://openai.com/chatgpt)</sub>
+
 ## Supported / Tested Games
 
 > This tool is designed for **Stronghold Crusader – Definitive Edition** and can work with other titles if you adjust the paths. Only SC:DE is **proven** below; the rest are unverified by this project.
